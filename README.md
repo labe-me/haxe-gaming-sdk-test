@@ -8,6 +8,6 @@ haxe-gaming-sdk-test
 
 This test is a port of http://www.adobe.com/devnet/flashplayer/articles/away3d-starling-interoperation.html
 
-It has few differences, I wanted to test feather interoperation too so there's a feather button instead of the easy flash one.
+It has few differences (notably the use of a feather button).
 
 The purpose of the example is to ensure that all libraries works together.
